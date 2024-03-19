@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Contadito](https://www.contadito.com/)
 
-- 🌱 I’m currently learning **Goland, NextJs, AWS**
+- 🌱 I’m currently learning **NextJs, Doker**
 
 - 📫 How to reach me **jd.hrez@gmail.com**
 
