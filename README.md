@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **jd.hrez@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/18y7VddUXj-4E9nXTvYR4cyPLQPWcObi4/view?usp=sharing](https://drive.google.com/file/d/1rqd2Hf3M8Bv3rMwNDCo8LQsvVPV5ObAv/view?usp=sharing)
-
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1rqd2Hf3M8Bv3rMwNDCo8LQsvVPV5ObAv/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan hernandez" height="30" width="40" /></a>
