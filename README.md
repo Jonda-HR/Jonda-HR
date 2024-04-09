@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jd.hrez@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae]([https://drive.google.com/file/d/18y7VddUXj-4E9nXTvYR4cyPLQPWcObi4/view?usp=sharing](https://drive.google.com/file/d/1rqd2Hf3M8Bv3rMwNDCo8LQsvVPV5ObAv/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/18y7VddUXj-4E9nXTvYR4cyPLQPWcObi4/view?usp=sharing](https://drive.google.com/file/d/1rqd2Hf3M8Bv3rMwNDCo8LQsvVPV5ObAv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
