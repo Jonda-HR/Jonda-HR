@@ -1,4 +1,4 @@
-<Image src="https://drive.google.com/file/d/1WapyN0pY0xh5VtBljUFB-15NZNdrtQMV/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1WapyN0pY0xh5VtBljUFB-15NZNdrtQMV/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Jonathan Hernandez</h1>
 <h3 align="center">✨ Full Stack Developer ✨</h3>
 
