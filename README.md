@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Contadito](https://www.contadito.com/)
 
-- 🌱 I’m currently learning **NextJs, Doker**
+- 🌱 I’m currently learning **Golang, Doker**
 
 - 📫 How to reach me **jd.hrez@gmail.com**
 
