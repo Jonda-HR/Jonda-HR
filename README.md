@@ -9,6 +9,8 @@
 - 📫 How to reach me **jd.hrez@gmail.com**
 
 - 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1XvUJFcbnhvibrFsmYJfIpXPv_FT_8liC/view?usp=drive_link)
+
+- 🎩 My Portfolio [Jonathan Portfiolio](https://jonda-portfolio.netlify.app/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
